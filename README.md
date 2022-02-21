@@ -1,3 +1,7 @@
+# Todo App
+
+Todo App is a daily todo list app. You can add, delete or update new todos in this application. This application is made using react and react hooks.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
